@@ -1,5 +1,6 @@
-<h1>Hello there! I'm Marc, a Marketing & Data Analyst!
+<h1>🙋🏿 Hello, I'm Marc, a Marketing & Data Analyst!</h1>
 
+<P>A former management accountant who has redirected their career towards the field of data analysis, driven by a newfound passion. Based in London, UK, specialising in transforming raw data into insights that drive informed decision-making and meaningful business outcomes.</P>
 <h2>👨🏿‍💻 Data Analytics Projects:</h2>
 
 - Microsoft Excel
