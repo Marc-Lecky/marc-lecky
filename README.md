@@ -7,22 +7,18 @@
   -  [Project 1](https://www.linkedin.com/in/marc-lecky/)
   -  [Project 2](https://www.linkedin.com/in/marc-lecky/)
   -  [Project 3](https://www.linkedin.com/in/marc-lecky/)
-
 - Tableau
   - [Project 1](https://www.linkedin.com/in/marc-lecky/)
   - [Project 2](https://www.linkedin.com/in/marc-lecky/)
   - [Project 3](https://www.linkedin.com/in/marc-lecky/)
-
 - MySQL 
   -  [Project 1](https://www.linkedin.com/in/marc-lecky/)
   -  [Project 2](https://www.linkedin.com/in/marc-lecky/)
   -  [Project 3](https://www.linkedin.com/in/marc-lecky/)
-
 - Python 
   -  [Project 1](https://www.linkedin.com/in/marc-lecky/)
   -  [Project 2](https://www.linkedin.com/in/marc-lecky/)
   -  [Project 3](https://www.linkedin.com/in/marc-lecky/)
-
 - Azure and AWS 
   -  [Project 1](https://www.linkedin.com/in/marc-lecky/)
   -  [Project 2](https://www.linkedin.com/in/marc-lecky/)
@@ -37,6 +33,13 @@
 - [CourseCareers UI/UX Design Bootcamp](https://www.linkedin.com/in/marc-lecky/overlay/1706378869334/single-media-viewer/?profileId=ACoAABxVNqoBK0w_WWW-lD8DlKvBOErxXmIETvs)
 - [Excel for Data Analytics](https://www.linkedin.com/in/marc-lecky/details/education/1714133443577/single-media-viewer/?profileId=ACoAABxVNqoBK0w_WWW-lD8DlKvBOErxXmIETvs)
 
+<h2>🛠️ Tools</h2>
+
+- Language: SQL, Python
+- Database: MySQL, SAP
+- Spreadsheet: Excel, Google Sheets
+- Business Intelligence: Tableau
+- UI/UX Design: Figma, Miro, Optimal Workshop
 
 <h2>📺 YouTube Videos</h2>
 
