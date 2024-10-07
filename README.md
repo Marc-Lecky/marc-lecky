@@ -52,6 +52,4 @@ When I’m not diving into data, you can find me immersed in the world of 80s sc
 
 <h2>🤳🏿 Connect with me:</h2>
 
-[<img align="left" alt="Marc Lecky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/marc-lecky/
+- [linkedin](https://www.linkedin.com/in/marc-lecky/) 
