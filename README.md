@@ -1,5 +1,7 @@
 <h1>🙋🏿 Hello, I'm Marc, a Marketing & Data Analyst!</h1>
 
+![My banner2](https://github.com/Marc-Lecky/Images/blob/1c37212abe5feac2a2cd218dd4b7a07e8f0fd9f2/My%20banner2.png)
+
 <P>A former management accountant who has redirected their career towards the field of data analysis, driven by a newfound passion. Based in London, UK, specialising in transforming raw data into insights that drive informed decision-making and meaningful business outcomes.</P>
 <h2>👨🏿‍💻 Data Analytics Projects:</h2>
 
