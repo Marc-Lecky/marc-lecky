@@ -1,4 +1,4 @@
-<h1>🙋🏿 Introducing Myself</h1>
+<h1>🙋🏾‍♂️ Introducing Myself</h1>
 
 ![My banner2](https://github.com/Marc-Lecky/Images/blob/1c37212abe5feac2a2cd218dd4b7a07e8f0fd9f2/My%20banner2.png)
 
