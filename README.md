@@ -35,7 +35,7 @@
 - [CourseCareers UI/UX Design Bootcamp](https://www.linkedin.com/in/marc-lecky/overlay/1706378869334/single-media-viewer/?profileId=ACoAABxVNqoBK0w_WWW-lD8DlKvBOErxXmIETvs)
 - [Excel for Data Analytics](https://www.linkedin.com/in/marc-lecky/details/education/1714133443577/single-media-viewer/?profileId=ACoAABxVNqoBK0w_WWW-lD8DlKvBOErxXmIETvs)
 
-<h2>🛠️ Tools</h2>
+<h2>🛠️ Data Toolkit</h2>
 
 - Language: SQL, Python
 - Database: MySQL, SAP
