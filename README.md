@@ -2,7 +2,7 @@
 
 ![My banner2](https://github.com/Marc-Lecky/Images/blob/1c37212abe5feac2a2cd218dd4b7a07e8f0fd9f2/My%20banner2.png)
 
-<P>Hi, I'm Marc, a certified Tableau Desktop Specialist with professional experience in marketing and data analytics! A former management accountant who has pivoted their career towards data analysis, motivated by a newfound passion. I am based in London, UK, and my expertise lies in analysing raw data to uncover insights that inform decision-making and lead to significant business outcomes.</P>
+<P>Hi, I’m Marc, a certified Tableau Desktop Specialist with over a decade of experience in finance, accounting, digital marketing, and analytic reporting. After acquiring extensive experience as a management accountant, I pivoted my career towards data analytics, combining my financial expertise with a growing passion for data-driven problem-solving.</P>
 <h2>📚 Data Analytics Projects</h2>
 
 - Microsoft Excel
