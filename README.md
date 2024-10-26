@@ -4,7 +4,7 @@
 
 <P>Hello, I’m Marc, and I’m based in West London, UK. I am a certified Tableau Desktop Specialist with extensive experience in data visualisation and analysis. Experienced with Tableau, a key component of the Salesforce ecosystem, I leverage my skills to transform complex data into digestible insights, enhancing decision-making processes. My expertise in Tableau includes creating intuitive dashboards, performing data cleaning and manipulation, and integrating data from various sources to support strategic business objectives.</P>
 
-- [View More](https://www.marclecky.com/about-me/)
+[View More](https://www.marclecky.com/about-me/)
 
 
 
