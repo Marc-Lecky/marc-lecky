@@ -2,7 +2,7 @@
 
 ![My banner2](https://github.com/Marc-Lecky/Images/blob/1c37212abe5feac2a2cd218dd4b7a07e8f0fd9f2/My%20banner2.png)
 
-<P>Hello, I’m Marc, and I’m based in West London, UK. I am a certified Tableau Desktop Specialist with extensive experience in data visualisation and analysis. Experienced with Tableau, a key component of the Salesforce ecosystem, I leverage my skills to transform complex data into digestible insights, enhancing decision-making processes. My expertise in Tableau includes creating intuitive dashboards, performing data cleaning and manipulation, and integrating data from various sources to support strategic business objectives.[View More](https://www.marclecky.com/about-me/)</P>
+<P>Hello, I’m Marc, and I’m based in West London, UK. I am a certified Tableau Desktop Specialist with extensive experience in data visualisation and analysis. Experienced with Tableau, a key component of the Salesforce ecosystem, I leverage my skills to transform complex data into digestible insights, enhancing decision-making processes. My expertise in Tableau includes creating intuitive dashboards, performing data cleaning and manipulation, and integrating data from various sources to support strategic business objectives.</P>[View More](https://www.marclecky.com/about-me/)
 
 <h2>📚 Data Analytics Projects</h2>
 
