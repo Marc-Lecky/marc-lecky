@@ -2,7 +2,7 @@
 
 ![My banner2](https://github.com/Marc-Lecky/Images/blob/1c37212abe5feac2a2cd218dd4b7a07e8f0fd9f2/My%20banner2.png)
 
-<P>Hello, I’m Marc, a certified Tableau Desktop Specialist based in West London, UK. With extensive experience in data visualisation and analysis, I leverage tools like Excel, Tableau, MySQL, and Python to transform complex datasets into clear, digestible insights that support strategic decision-making.</P>
+<P>Hi, I’m Marc, a certified Tableau Desktop Specialist based in West London, UK. I specialise in transforming complex datasets into actionable insights, helping teams make informed, strategic decisions. My toolkit includes Excel, Tableau, MySQL, and Python, which I use to create clear, interesting data visualisations and analyses.</P>
 
 [View More](https://www.marclecky.com/about-me/)
 
